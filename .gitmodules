@@ -1,0 +1,3 @@
+[submodule "minimodule"]
+	path = minimodule
+	url = https://github.com/Z3rca/minimodule.git
